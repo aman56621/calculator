@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+}
+
+.ibox {
+    background-color: green;
+    margin-left: 20px;
+    width: 200px; 
+}
+
+#answer {
+    
+    margin-left: 20px;
+    
+    text-align: center;
+}
